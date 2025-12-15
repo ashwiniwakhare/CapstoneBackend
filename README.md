@@ -3,8 +3,6 @@
 Description:
 A scalable and intelligent Ticket Management System built with Django REST Framework and React to manage customer support tickets efficiently. Supports three roles—User, Agent, and Admin—with JWT-based authentication and role-based authorization.
 
-
-
 ✨ Features
 
 📝 Ticket Management: Create, view, update, and delete tickets via REST APIs.
@@ -17,7 +15,6 @@ A scalable and intelligent Ticket Management System built with Django REST Frame
 
 🔄 Background Task Assignment: Tickets assigned to agents based on workload and priority.
 
-
 🖥️ Dashboards
 
 👤 User Dashboard: Track submitted tickets, status, and attachments.
@@ -27,7 +24,6 @@ A scalable and intelligent Ticket Management System built with Django REST Frame
 📊 Admin Dashboard: Manage tickets, agents, categories, and view analytics reports.
 
 ⏱️ SLA Reports: Daily reports in PDF/CSV with SLA breach analysis.
-
 
 🛠️ Tech Stack
 
@@ -45,8 +41,6 @@ AI/ML Module: Python (Scikit-learn / NLP)
 
 Email: SMTP via Celery
 
-
-
 🚀 Future Scope
 
 ⚡ Real-Time Notifications: WebSocket/Django Channels for instant updates.
@@ -57,35 +51,25 @@ Email: SMTP via Celery
 
 🔗 Integration: Slack, Teams, CRM systems for unified ticketing.
 
-
-
 🏁 Getting Started
-
-Clone the repository:
-
+Clone the Repository
 git clone https://github.com/ashwiniwakhare/CapstoneBackend
-
-
 
 Backend Setup:
 
-pip install -r requirements.txt
+->>pip install -r requirements.txt
 
-python manage.py migrate
+->>python manage.py migrate
 
-python manage.py runserver
-
-
+->>python manage.py runserver
 
 Frontend Setup:
 
-cd frontend
+->>cd frontend
 
-npm install
+->>npm install
 
-npm run dev
-
-
+->>npm run dev
 
 ⚖️ License
 
