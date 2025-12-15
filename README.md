@@ -1,8 +1,7 @@
 🎫 Role-Based Ticket Management System
 
-Description:
 A scalable and intelligent Ticket Management System built with Django REST Framework and React to manage customer support tickets efficiently. Supports three roles—User, Agent, and Admin—with JWT-based authentication and role-based authorization.
-
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ✨ Features
 
 📝 Ticket Management: Create, view, update, and delete tickets via REST APIs.
@@ -14,6 +13,8 @@ A scalable and intelligent Ticket Management System built with Django REST Frame
 📧 Email Notifications: Automatic acknowledgment and updates via Celery.
 
 🔄 Background Task Assignment: Tickets assigned to agents based on workload and priority.
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 
 🖥️ Dashboards
 
@@ -24,6 +25,9 @@ A scalable and intelligent Ticket Management System built with Django REST Frame
 📊 Admin Dashboard: Manage tickets, agents, categories, and view analytics reports.
 
 ⏱️ SLA Reports: Daily reports in PDF/CSV with SLA breach analysis.
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
 
 🛠️ Tech Stack
 
@@ -40,6 +44,8 @@ Authentication: JWT (Simple JWT)
 AI/ML Module: Python (Scikit-learn / NLP)
 
 Email: SMTP via Celery
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 
 🚀 Future Scope
 
@@ -50,6 +56,8 @@ Email: SMTP via Celery
 📱 Mobile Support: React Native / Flutter apps for users and agents.
 
 🔗 Integration: Slack, Teams, CRM systems for unified ticketing.
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🏁 Getting Started
 Clone the Repository
@@ -70,6 +78,7 @@ Frontend Setup:
 ->>npm install
 
 ->>npm run dev
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 👨‍💻 Author
 
