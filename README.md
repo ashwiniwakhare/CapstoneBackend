@@ -27,7 +27,7 @@ A scalable and intelligent Ticket Management System built with Django REST Frame
 
 🛠️ Tech Stack
 
-Backend: Django, Django REST Framework
+Backend: Python, Django, Django REST Framework
 
 Frontend: React, Redux
 
