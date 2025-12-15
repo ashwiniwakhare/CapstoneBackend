@@ -33,7 +33,7 @@ Email: SMTP via Celery
 
 🏁 Getting Started
 Clone the repository:
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/ashwiniwakhare/CapstoneBackend
 
 Backend Setup:
 pip install -r requirements.txt
