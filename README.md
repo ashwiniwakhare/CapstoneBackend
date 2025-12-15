@@ -71,6 +71,8 @@ Frontend Setup:
 
 ->>npm run dev
 
-⚖️ License
+👨‍💻 Author
 
-MIT License
+Ashwini Wakhare
+
+Full Stack Python Developer (Django + React)
